@@ -1,9 +1,6 @@
-# Heart of Bihar
 
-Heart of Bihar is a modern single-page website concept for a Patna-based museum and cultural center.  
-It highlights immersive exhibits, guided tours, and curated collections focused on the rich history and heritage of Bihar, especially Patna in colonial and post-colonial periods.
+You can adjust folder names and files according to your actual project setup.
 
----
 
 ## 🔍 Overview
 
@@ -35,4 +32,25 @@ Visitors can discover exhibits, learn about the collection, explore experiences 
 ## 📁 Project Structure
 
 Since this version is built as a single-page site, the basic structure is as follows:
+
+You can adjust folder names and files according to your actual project setup.
+
+---
+
+## 🖥️ How to Run Locally
+
+1. Download or clone the project:
+ 2. Open the project folder in your code editor.  
+3. Open `index.html` directly in any browser (double-click), or use a local server (such as the **Live Server** extension in VS Code) for a better development experience.  
+
+No additional configuration is required because this is a static site.
+
+---
+
+## 🔮 Possible Future Enhancements
+
+- Connect the “Book Now” and “Get in Touch” buttons to real forms with backend integration (Node.js, Firebase, or a form service). 
+- Add separate pages/sections for event schedules, educational programs, and special exhibitions.  
+- Include multilingual support (e.g., English and Hindi) for wider reach.  
+- Integrate a gallery with photos of the museum, exhibits, and visitors.
 
