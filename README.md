@@ -1,5 +1,4 @@
 
-You can adjust folder names and files according to your actual project setup.
 
 
 ## 🔍 Overview
