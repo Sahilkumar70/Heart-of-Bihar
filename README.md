@@ -26,8 +26,7 @@ Visitors can discover exhibits, learn about the collection, explore experiences 
 ## 🧰 Tech Stack
 
 - **HTML5** – semantic structure for all sections of the landing page.  
-- **CSS3** – layout, typography, colors, and responsive styling (if included in this project).  
-- **JavaScript** – optional, for interactivity such as smooth scrolling, animations, or dynamic components (if used).  
+- **CSS3** – layout, typography, colors, and responsive styling (if included in this project).   
 
 > This project is currently a static front-end implementation and does not require any backend server.
 
@@ -35,5 +34,5 @@ Visitors can discover exhibits, learn about the collection, explore experiences 
 
 ## 📁 Project Structure
 
-Since this version is built as a single-page site, the basic structure is as follows: [file:50]
+Since this version is built as a single-page site, the basic structure is as follows:
 
